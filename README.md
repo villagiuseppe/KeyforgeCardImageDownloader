@@ -1,2 +1,2 @@
-# KeyforgeCarcImageDownloader
-c# version of eyForge-Downloader
+# Keyforge Card Image Downloader
+c# version of KeyForge-Downloader
