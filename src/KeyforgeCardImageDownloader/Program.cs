@@ -6,6 +6,7 @@ namespace KeyforgeCardImageDownloader
     {
         private static void Main(string[] args)
         {
+            //TEST
             Console.WriteLine("Hello World!");
         }
     }
